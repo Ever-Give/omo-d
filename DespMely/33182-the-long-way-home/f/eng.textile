@@ -6,7 +6,7 @@ Author: DespMely
 
 This is a story based on the idea by Ranpalan here:
 
-$iframe data-embedcontent="" frameborder="0" src="//www.omorashi.org/applications/core/interface/js/spacer.png" data-embed-src="https://www.omorashi.org/topic/33048-lets-trade-stories/?do=embed"
+$/33048-lets-trade-stories/
 
 I hope I was able to do it justice!:)
 
